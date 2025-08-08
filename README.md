@@ -16,31 +16,31 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="43" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="43" alt="python logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
+  <img src="https://skillicons.dev/icons?i=docker" height="43" alt="docker logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="43" alt="git logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="43" alt="github logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="30" alt="kubernetes logo"  />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="43" alt="kubernetes logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
+  <img src="https://skillicons.dev/icons?i=vscode" height="43" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="30" alt="ansible logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="43" alt="ansible logo"  />
 </div>
 
 ###
 
 <div align="center">
   <a href="https://www.instagram.com/erichpacific_/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=#7BB89E&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=#7BB89E&labelColor=&style=for-the-badge" height="39" alt="instagram logo"  />
   </a>
-  <a href="www.linkedin.com/in/erichpacifico" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/erichpacifico/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="39" alt="linkedin logo"  />
   </a>
 </div>
 
