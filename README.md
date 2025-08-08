@@ -9,8 +9,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=erichpacifico10&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=gotham&locale=en&hide_border=true" height="300" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=erichpacifico10&locale=en&mode=daily&theme=gotham&hide_border=true&border_radius=10" height="300" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=erichpacifico10&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=gotham&locale=en&hide_border=true" height="200" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=erichpacifico10&locale=en&mode=daily&theme=gotham&hide_border=true&border_radius=10" height="200" alt="streak graph"  />
 </div>
 
 ###
